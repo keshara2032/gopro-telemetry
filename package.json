@@ -48,6 +48,12 @@
     "puppeteer": "^19.10.0"
   },
   "dependencies": {
-    "binary-parser": "^2.2.1"
-  }
+    "binary-parser": "^2.2.1",
+    "gopro-telemetry": "^1.2.6",
+    "gpmf-extract": "^0.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/JuanIrache/gopro-telemetry/issues"
+  },
+  "homepage": "https://github.com/JuanIrache/gopro-telemetry#readme"
 }
